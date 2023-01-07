@@ -1,2 +1,2 @@
-# human-genomic-meta-analysis
-Meta analysis of genomic studies to better understand telomeres length against aging in wild animals
+### human-genomic-meta-analysis
+Meta analysis of genomic studies to better understand how aging impacts telomeres length in wild animals using Machine Learning predictions and simple Linear Regression modeling for now. I'll dive deeper using several datasets of wild animals that were previously studied to generate predictions if age has to do with RTL (telomere's relative biomarker to measure a DNA's physiological age across mamals). 
